@@ -34,7 +34,7 @@ app.post('/api/notes', async (req, res) => {
         const notes = JSON.parse(data);
         const newNote = {
             ...req.body,
-            id: Date.now().toString(),
+            id: uuidv4(),
         };
         notes.push(newNote);
         await fs.writeFile(
