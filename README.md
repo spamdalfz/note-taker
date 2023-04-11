@@ -10,9 +10,12 @@ Note Taker is an application that allows users to write and save notes. This app
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Deployed App](https://note-taker-spamdalf.herokuapp.com/)
+- [Screenshots](#screenshots)
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
+
 
 ## Installation
 
@@ -32,11 +35,13 @@ To use this application, please follow the steps below:
 8. To view a saved note, click on the note in the list on the left side of the page.
 9. To delete a note, click the trash can icon next to the note in the list on the left side of the page.
 
-*Note:Note: This application uses the Express.js framework for server-side routing and handling requests. It also uses the UUID package to generate unique identifiers for each note that is created. If you are unfamiliar with either of these tools, please refer to their respective documentation for more information.*
+*Note: This application uses the Express.js framework for server-side routing and handling requests. It also uses the UUID package to generate unique identifiers for each note that is created. If you are unfamiliar with either of these tools, please refer to their respective documentation for more information.*
 
 ## Live Link
 
 Check out the deployed version of the app [here](https://note-taker-spamdalf.herokuapp.com/).
+
+## Screenshots
 
 ### Home Page
 
