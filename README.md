@@ -32,7 +32,7 @@ To use this application, please follow the steps below:
 8. To view a saved note, click on the note in the list on the left side of the page.
 9. To delete a note, click the trash can icon next to the note in the list on the left side of the page.
 
-*Note: Any saved notes will be stored in the db/db.json file. If this file does not exist, it will be created automatically when the server is started.*
+*Note:Note: This application uses the Express.js framework for server-side routing and handling requests. It also uses the UUID package to generate unique identifiers for each note that is created. If you are unfamiliar with either of these tools, please refer to their respective documentation for more information.*
 
 ## Live Link
 
