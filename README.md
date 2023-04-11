@@ -23,8 +23,8 @@ To install this application, clone the repository to your local machine and run 
 To use this application, please follow the steps below:
 
 1. Open your terminal and navigate to the root directory of the application.
-2. Install the necessary dependencies using npm install.
-3. Start the server by running node server.js or npm start.
+2. Install the necessary dependencies using ```npm install```.
+3. Start the server by running ```node server.js``` or ```npm start```.
 4. Open your web browser and navigate to http://localhost:3000.
 5. Click the "Get Started" button to navigate to the notes page.
 6. Click the pencil icon in the top right corner to create a new note.
