@@ -34,6 +34,10 @@ To use this application, please follow the steps below:
 
 *Note: Any saved notes will be stored in the db/db.json file. If this file does not exist, it will be created automatically when the server is started.*
 
+## Live Link
+
+Check out the deployed version of the app [here](https://note-taker-spamdalf.herokuapp.com/).
+
 ### Home Page
 
 ![Alt text](/public/assets/screenshots/main_page.JPG)
